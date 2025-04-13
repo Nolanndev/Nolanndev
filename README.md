@@ -4,8 +4,6 @@
 💼 En recherche active d'une alternance pour la rentrée 2025
 🔧 Animé par le Développement Web et le DevOps
 
----
-
 ## 🛠️ Stack & Outils
 
 ### 💻 Langages
@@ -25,21 +23,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![WinDev](https://img.shields.io/badge/-WinDev-FF9900?style=flat) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
----
-
 ## 💻 Projets & Expériences
 
 - 🎯 **Supervision** – Application interne développée pour **Titan France**, avec ASP.NET MVC & bases SQL Server, pour superviser l’activité industrielle.
 - 🌐 **Veille Tech** – Application web en cours pour centraliser les flux RSS et suivre les dernières actualités tech.
 - 📦 **Auto-hébergement** – Expérimentations avec **Raspberry Pi**, **Docker**, **MySQL/MariaDB**, serveurs Apache/Nginx et hébergement d'applications web ou Node.js.
 
----
-
 ## 🚗 À côté du clavier...
 
 J'apprécie la mécanique automobile 🧰. J’aime comprendre ce qui se passe sous le capot, que ce soit en voiture ou en code.  
-
----
 
 ## 📫 Me contacter
 
@@ -47,6 +39,5 @@ J'apprécie la mécanique automobile 🧰. J’aime comprendre ce qui se passe s
 - 💼 [LinkedIn](https://www.linkedin.com/in/nolann-parcheminer/)
 - Portfolio (promis c'est pour bientôt)
 
----
 
 > *"Comprendre ce qu'on utilise, c'est le début de la maîtrise."*
