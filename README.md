@@ -37,7 +37,6 @@ J'apprécie la mécanique automobile 🧰. J’aime comprendre ce qui se passe s
 
 - ✉️ [parcheminer.nolann@gmail.com](parcheminer.nolann@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nolann-parcheminer/)
-- Portfolio (promis c'est pour bientôt)
 
 
 > *"Comprendre ce qu'on utilise, c'est le début de la maîtrise."*
